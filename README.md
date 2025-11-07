@@ -4,6 +4,16 @@ A simple Python–MySQL project to manage medicines efficiently.
 It allows adding, viewing, updating, deleting, searching, grouping, and sorting medicine records through a command-line interface.
 
 ---
+# 👥 Team Members
+| No. | Name               |
+| --- | ------------------ |
+| 1.  | Jay Pandya         | 
+| 2.  | Kushagra Rawal     |
+| 3.  | Krishnam Agarwal   |
+| 4.  | Aryan Shreshth     |
+| 5.  | Saksham Arora      |
+
+---
 
 ## 🚀 Features
 - Add, update, and remove medicine records  
