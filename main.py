@@ -4,7 +4,7 @@ import mysql.connector
 # Table: medmgmt
 # columns: Medicine_ID, Medicine, Manufacturer, Date_of_Manufacture, Date_of_Expiry, Quantity, Price
 
-conn = mysql.connector.connect(host="localhost", password="batman", username="root")
+conn = mysql.connector.connect(host="localhost", password="pass", username="root")
 mycur = conn.cursor()
 
 # (after the table is created)
@@ -218,4 +218,5 @@ def mainmenu():
 
 
 access()
+
 
