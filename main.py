@@ -20,7 +20,7 @@ def access():
             mainmenu()
             break
         else:
-            print("Try again. Hint: It's a horrible password.")
+            print("Try again. Wrong password entered.")
 
 
 # FUNCTIONS
@@ -218,5 +218,6 @@ def mainmenu():
 
 
 access()
+
 
 
